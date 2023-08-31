@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nahom Zewdu
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Nahom Zewdu
 ===================================================================================================================================
 
 Full-Stack developer
@@ -7,7 +7,7 @@ Full-Stack developer
 * 🌍  I'm based in Ethiopia, AA
 * 🖥️  See my portfolio at [NahomZewdu.com](http://https://effulgent-nougat-2ebfe5.netlify.app/)
 * ✉️  You can contact me at [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
-* 🧠  I'm learning Django, a popular python framework
+* 🧠  I'm learning Backend dev with Django
 * 🤝  I'm open to collaborating on Web development, specifically backend
 
 ### Skills
