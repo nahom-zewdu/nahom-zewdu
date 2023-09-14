@@ -25,7 +25,7 @@ Full-Stack developer
 ### Badges
 
 <b>My GitHub Stats</b>
-
+![GitHub Readme stats](https://Nahi-shady.github.io/github-readme-stats/)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nahi-shady&theme=ambient-gradient&hide_border=true&border_radius=21.4&card_width=542)](https://git.io/streak-stats)
 
 <a href="https://github.com/Nahi-shady" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nahi-shady&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
