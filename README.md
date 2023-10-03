@@ -4,7 +4,7 @@ Hi, I'm Nahom Zewdu
 Full-Stack developer
 --------------------
 
-* 🌍  I'm based in Ethiopia
+* 🌍  Based in Ethiopia
 * 🖥️  See my portfolio at [NahomZewdu](http://https://effulgent-nougat-2ebfe5.netlify.app/)
 * ✉️  You can contact me at [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
 * 🧠  I'm learning Backend dev with Django
