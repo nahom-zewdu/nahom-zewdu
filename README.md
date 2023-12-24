@@ -5,11 +5,11 @@ Full-Stack developer
 
 --------------------
 
-* 🌍  Based in Ethiopia
-* 🖥️  See my portfolio at [NahomZewdu](http://https://effulgent-nougat-2ebfe5.netlify.app/)
-* ✉️  You can contact me at [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
-* 🧠  I'm learning Backend dev with Django
-* 🤝  I'm open to collaborating on Web development, specifically backend
+* 🧠  Competitive programmer at [A2SV]((https://a2sv.org/)/)
+* 🧠  Learning Backend, Django, and API Development
+* 🤝  I'm open to collaborating on Web development
+* 🖥️  See my portfolio here [NahomZewdu](http://https://effulgent-nougat-2ebfe5.netlify.app/)
+* ✉️  If you want to reach out [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
 
 ### Skills
 
