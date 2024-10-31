@@ -11,13 +11,13 @@ Full-Stack developer
 * 🖥️  See my portfolio here [NahomZewdu](http://https://effulgent-nougat-2ebfe5.netlify.app/)
 * ✉️  If you want to reach out [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
 
-### Skills
+## Skills
 
 
- [![Languages](https://skillicons.dev/icons?i=py,go,js)](https://skillicons.dev)<br/>
- [![Frameworks](https://skillicons.dev/icons?i=django,flask,nodejs,firebase,fastapi,)](https://skillicons.dev)<br/>
- [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)<br/>
- [![Tools](https://skillicons.dev/icons?i=docker,redis,git,heroku,netlify,npm,postman,)](https://skillicons.dev)
+### Languages [![Languages](https://skillicons.dev/icons?i=py,go,js)](https://skillicons.dev)<br/>
+### Frameworks [![Frameworks](https://skillicons.dev/icons?i=django,flask,nodejs,firebase,fastapi,)](https://skillicons.dev)<br/>
+### Databases [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)<br/>
+### Tools [![Tools](https://skillicons.dev/icons?i=docker,redis,git,heroku,netlify,npm,postman,)](https://skillicons.dev)
 
 <b>My GitHub Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nahi-shady&show_icons=true&locale=en&langs_count=10&count_private=true&theme=radical" alt="k4l3b4" /></p>
