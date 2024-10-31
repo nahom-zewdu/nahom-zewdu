@@ -13,6 +13,8 @@ Full-Stack developer
 
 ### Skills
 
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="62" height="62" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="62" height="62" /></div>
+
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a> </p>
 <p align="left">
