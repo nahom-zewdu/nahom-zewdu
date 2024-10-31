@@ -13,18 +13,11 @@ Full-Stack developer
 
 ### Skills
 
-<p align="left">
- [![Languages](https://skillicons.dev/icons?i=py,go,js)](https://skillicons.dev)
-</p>
-<p align="left">
- [![Frameworks](https://skillicons.dev/icons?i=django,flask,nodejs,firebase,fastapi,)](https://skillicons.dev)
-</p>
-<p align="left">
- [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
-</p>
-<p align="left">
+
+ [![Languages](https://skillicons.dev/icons?i=py,go,js)](https://skillicons.dev)<br/>
+ [![Frameworks](https://skillicons.dev/icons?i=django,flask,nodejs,firebase,fastapi,)](https://skillicons.dev)<br/>
+ [![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)<br/>
  [![Tools](https://skillicons.dev/icons?i=docker,redis,git,heroku,netlify,npm,postman,)](https://skillicons.dev)
-</p>
 
 <b>My GitHub Stats</b>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nahi-shady&show_icons=true&locale=en&langs_count=10&count_private=true&theme=radical" alt="k4l3b4" /></p>
