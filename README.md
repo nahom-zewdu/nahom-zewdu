@@ -3,7 +3,7 @@ Hi, I'm Nahom Zewdu
 
 Backend developer
  
---------------------
+------------------------
 
 * 🧠  Backend Developer, Django expert, APIs, Databases
 * 🧠  Competitive programmer at [A2SV]((https://a2sv.org/)/)
