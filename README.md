@@ -3,7 +3,6 @@ Hi, I'm Nahom Zewdu
 
 Backend developer
 
-
 ------------------------
 
 * 🧠  Backend Developer, Django Expert, APIs, Databases
