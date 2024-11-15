@@ -2,7 +2,6 @@ Hi, I'm Nahom
 ====================================================================================
 
 Backend developer
-
 ------------------------
 
 * 🧠  Backend Developer, Django Expert, APIs, Databases
