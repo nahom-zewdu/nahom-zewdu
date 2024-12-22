@@ -5,7 +5,7 @@ Backend developer
 
 ----------------------
 
-* 🧠  Backend Developer, Django Expert, APIs, Databases
+* 🧠  Backend Developer, Django Expert, APIs, Databases 
 * 🧠  Competitive programmer at [A2SV]((https://a2sv.org/)/)
 * 🤝  I'm open to collaborating on Web development
 * 🖥️  See my portfolio here [NahomZewdu](http://https://effulgent-nougat-2ebfe5.netlify.app/)
