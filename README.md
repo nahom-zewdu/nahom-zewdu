@@ -1,4 +1,4 @@
-## Hi, I'm Nahom - Backend developer
+## Hi, I'm Nahom - Backend Developer
  
 * 🧠  Backend Developer, Django Expert, APIs, Databases
 * 🧠  Competitive programmer at [A2SV]((https://a2sv.org/)/)
