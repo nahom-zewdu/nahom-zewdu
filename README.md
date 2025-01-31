@@ -1,4 +1,4 @@
-## Hi, I'm Nahom
+# Hi, I'm Nahom
 ## I specialize in Backend Engineering and Development
 
 * 🧠  Go, Python, APIs, Databases, System Designs
