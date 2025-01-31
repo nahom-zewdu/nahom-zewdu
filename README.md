@@ -1,5 +1,4 @@
-# Hi, I'm Nahom
-## I specialize in Backend Engineering and Development
+# Hi, I'm Nahom (Backend Engineer and Developer)
 
 * 🧠  Go, Python, APIs, Databases, System Designs
 * 🧠  Competitive programmer at [A2SV]((https://a2sv.org/)/) 
