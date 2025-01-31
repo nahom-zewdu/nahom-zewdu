@@ -1,6 +1,7 @@
-## Hi, I'm Nahom - Backend Develope
+## Hi, I'm Nahom
+## I specialize in Backend Engineering and Development
 
-* 🧠  Backend Developer, Django Expert, APIs, Databases
+* 🧠  Go, Python, APIs, Databases, System Designs
 * 🧠  Competitive programmer at [A2SV]((https://a2sv.org/)/) 
 * 🤝  I'm open to collaborating on Web development
 * 🖥️  See my portfolio here [NahomZewdu](http://https://effulgent-nougat-2ebfe5.netlify.app/)
