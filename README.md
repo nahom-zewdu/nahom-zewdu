@@ -7,7 +7,7 @@
 * ✉️  If you want to reach out [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
 
 ## Skills
-
+ 
 ### Languages : ___[![Languages](https://skillicons.dev/icons?i=py,go,js)](https://skillicons.dev)<br/>
 ### Frameworks : __[![Frameworks](https://skillicons.dev/icons?i=django,flask,nodejs,firebase,fastapi,)](https://skillicons.dev)<br/>
 ### Databases : ____[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)<br/>
