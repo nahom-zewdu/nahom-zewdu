@@ -9,7 +9,7 @@
 ## Skills
  
 ### Languages : ___[![Languages](https://skillicons.dev/icons?i=py,go,js)](https://skillicons.dev)<br/>
-### Frameworks : __[![Frameworks](https://skillicons.dev/icons?i=django,flask,nodejs,firebase,fastapi,)](https://skillicons.dev)<br/>
+### Frameworks : __[![Frameworks](https://skillicons.dev/icons?i=django,flask,firebase,fastapi,)](https://skillicons.dev)<br/>
 ### Databases : ____[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)<br/>
 ### Tools : _________[![Tools](https://skillicons.dev/icons?i=git,npm,docker,heroku,netlify,postman,)](https://skillicons.dev)<br/>
 <br/>
