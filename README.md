@@ -3,7 +3,7 @@
 * 🧠  System Designs, Databases, APIs 
 * 🧠  Competitive programmer at [A2SV]((https://a2sv.org/)/) 
 * 🤝  I'm open to collaborating on Web development
-* 🖥️  See my portfolio here [NahomZewdu](http://https://effulgent-nougat-2ebfe5.netlify.app/)
+* 🖥️  See my portfolio here [NahomZewdu](https://nahomzewdu.netlify.app/)
 * ✉️  If you want to reach out [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
 
 ## Skills 
