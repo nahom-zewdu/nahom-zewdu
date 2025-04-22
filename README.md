@@ -18,4 +18,5 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nahom-zewdu&show_icons=true&locale=en&count_private=true&theme=radical" alt="k4l3b4" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nahom-zewdu&theme=radical&hide_border=true" alt="k4l3b4" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=nahom-zewdu&theme=radical&hide_border=true" alt="nahom-zewdu streak stats"/></p>
+
