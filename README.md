@@ -14,8 +14,8 @@
 ### Tools : _________[![Tools](https://skillicons.dev/icons?i=git,npm,docker,heroku,netlify,postman,)](https://skillicons.dev)<br/>
 <br/>
 <b>My GitHub Stats</b>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nahi-shady&show_icons=true&locale=en&langs_count=10&count_private=true&theme=radical" alt="k4l3b4" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahom-zewdu&show_icons=true&locale=en&langs_count=10&count_private=true&theme=radical" alt="k4l3b4" /></p>
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nahi-shady&show_icons=true&locale=en&count_private=true&theme=radical" alt="k4l3b4" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Nahi-shady&theme=radical&hide_border=true" alt="k4l3b4" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nahom-zewdu&show_icons=true&locale=en&count_private=true&theme=radical" alt="k4l3b4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=nahom-zewdu&theme=radical&hide_border=true" alt="k4l3b4" /></p>
