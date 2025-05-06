@@ -1,8 +1,8 @@
 # Hi, I'm Nahom (Backend Engineer and Developer)
 
-* 🧠  System Designs, Databases, APIs  
+* 🧠  I specialise in System Design, Databases Management and APIs Development
 * 🧠  Competitive programmer at [A2SV]((https://a2sv.org/)/) 
-* 🤝  I'm open to collaborating on Web development
+* 🤝  I'm open to collaborations
 * 🖥️  See my portfolio here [NahomZewdu](https://nahomzewdu.netlify.app/)
 * ✉️  If you want to reach out [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
 
