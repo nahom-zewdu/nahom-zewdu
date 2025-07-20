@@ -5,7 +5,6 @@
 I build production-grade backend systems with a focus on **scalability**, **performance**, and **clean architecture**.
 
 I specialize in:
-
 *  **System Design** — designing systems with clear tradeoffs and long-term maintainability
 *  **APIs & Services** — FastAPI, Django, Gin (Go), REST
 *  **Databases** — PostgreSQL, MongoDB, Redis
