@@ -2,7 +2,8 @@
 
 **Backend Engineer | Python & Go Developer | System Design Enthusiast**
 
-🔧 I build production-grade backend systems with a focus on **scalability**, **performance**, and **clean architecture**.
+I build production-grade backend systems with a focus on **scalability**, **performance**, and **clean architecture**.
+
 I specialize in:
 
 *  **System Design** — designing systems with clear tradeoffs and long-term maintainability
