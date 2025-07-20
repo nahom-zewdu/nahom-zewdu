@@ -1,7 +1,3 @@
-Here’s a **recruiter-optimized** version of your GitHub profile README — concise, high-signal, and tailored to highlight your *impact, credibility, and readiness* for serious backend engineering roles:
-
----
-
 # Hi, I'm Nahom 👋
 
 **Backend Engineer | Python & Go Developer | System Design Enthusiast**
