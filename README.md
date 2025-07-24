@@ -1,6 +1,6 @@
 # Hi, I'm Nahom 👋
 
-### **Backend Engineer | Python & Go Developer | System Design Enthusiast**
+#### **Backend Engineer | Python & Go Developer | System Design Enthusiast**
 
 I build production-grade backend systems with a focus on **scalability**, **performance**, and **clean architecture**.
 
@@ -17,7 +17,7 @@ It’s fast, reliable, Windows-first — and a practical example of my ability t
 🏆 **Background**
 
 *  Trained at [A2SV](https://a2sv.org/): algorithmic problem-solving, clean code under pressure
-*  Interned at Eskalate (Go + PostgreSQL)
+*  Interned at Eskalate (Go + MongoDB)
 *  Contributor to backend projects involving automation, access control, and distributed systems
 
 ---
