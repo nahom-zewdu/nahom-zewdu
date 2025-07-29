@@ -24,7 +24,7 @@ It’s fast, reliable, Windows-first and a practical example of my ability to sh
 
 ## 📫 Reach Out
 
-* Portfolio: [nahomzewdu.netlify.app](https://nahomzewdu.netlify.app)
+* Portfolio: [https://nahomzewdu.vercel.app/](https://nahomzewdu.vercel.app/)
 * Email: [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
 * Open to **backend roles**, **technical challenges**, or **team collaborations**
 
