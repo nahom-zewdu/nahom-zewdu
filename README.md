@@ -29,7 +29,7 @@ It’s fast, reliable, Windows-first and a practical example of my ability to sh
 * Open to **backend roles**, **technical challenges**, or **team collaborations**
 
 ## Skills 
- 
+  
 ### Languages : ___[![Languages](https://skillicons.dev/icons?i=py,go,js)](https://skillicons.dev)<br/>
 ### Frameworks : __[![Frameworks](https://skillicons.dev/icons?i=django,flask,firebase,fastapi,)](https://skillicons.dev)<br/>
 ### Databases : ____[![Databases](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis)](https://skillicons.dev)<br/>
