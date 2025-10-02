@@ -1,6 +1,6 @@
 # Hi, I'm Nahom 
 
-### **Backend Engineer | Python & Go Developer | System Design Enthusiast** 
+### **Backend Engineer | Python & Go Developer | System Design Enthusiast**
  
 I build production-grade backend systems with a focus on **scalability**, **performance**, and **clean architecture**.
  
