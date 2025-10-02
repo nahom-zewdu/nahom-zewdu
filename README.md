@@ -1,4 +1,4 @@
-# Hi, I'm Nahom 👋
+# Hi, I'm Nahom
 
 ### **Backend Engineer | Python & Go Developer | System Design Enthusiast**
  
