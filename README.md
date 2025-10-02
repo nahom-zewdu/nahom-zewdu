@@ -28,7 +28,7 @@ It’s fast, reliable, Windows-first and a practical example of my ability to sh
 * Email: [nahiyo86@gmail.com](mailto:nahiyo86@gmail.com)
 * Open to **backend roles**, **technical challenges**, or **team collaborations**
 
-## Skills 
+## Skills
   
 ### Languages : ___[![Languages](https://skillicons.dev/icons?i=py,go,js)](https://skillicons.dev)<br/>
 ### Frameworks : __[![Frameworks](https://skillicons.dev/icons?i=django,flask,firebase,fastapi,)](https://skillicons.dev)<br/>
