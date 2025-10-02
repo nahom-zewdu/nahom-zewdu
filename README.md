@@ -11,7 +11,7 @@ I specialize in:
 *  **Automation & Infrastructure** — from scripting to deployment pipelines
   
  **Proven in Production**
-I'm the creator of [**Nuvom**](https://github.com/nahom-zewdu/Nuvom), a cross-platform Python task queue, built from scratch.
+I'm the creator of [**Nuvom**](https://github.com/nahom-zewdu/Nuvom), a cross-platform Python task queue, built from scratch. 
 It’s fast, reliable, Windows-first and a practical example of my ability to ship serious backend infrastructure.
 
 🏆 **Background**
