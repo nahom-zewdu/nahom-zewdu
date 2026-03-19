@@ -24,7 +24,7 @@ I build **real-time systems, automation pipelines, and developer tools** focused
 Clean, modular systems. Clear trade-offs. No unnecessary complexity.
 
 🏆 **Background**
-
+*  Software Engineer & AI Automation developer at a startup
 *  Trained at [A2SV](https://a2sv.org/): algorithmic problem-solving, clean code under pressure
 *  Interned at Eskalate (Go + MongoDB)
 *  Contributor to backend projects involving automation, access control, and distributed systems
