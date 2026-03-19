@@ -1,6 +1,6 @@
-### Hi, I'm Nahom
+# Hi, I'm Nahom
 
-**Backend & Systems Engineer | Python & Go | Cloud & Automation**
+### **Backend & Systems Engineer | Python & Go | Cloud & Automation**
 
 ---
 
