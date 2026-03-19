@@ -2,7 +2,9 @@
 
 **Backend & Systems Engineer | Python & Go | Cloud & Automation**
 
-I build **real-time systems, automation pipelines, and developer tools**—focused on scalability, reliability, and clean architecture.
+---
+
+I build **real-time systems, automation pipelines, and developer tools** focused on scalability, reliability, and clean architecture.
 
 **Core work:**
 
