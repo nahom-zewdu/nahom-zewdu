@@ -1,18 +1,25 @@
-# Hi, I'm Nahom
+### Hi, I'm Nahom
 
-### **Backend Engineer | Python & Go Developer | System Design Enthusiast**
- 
-I build production-grade backend systems with a focus on **scalability**, **performance**, and **clean architecture**.
+**Backend & Systems Engineer | Python & Go | Cloud & Automation**
 
-I specialize in:
-*  **System Design** — designing systems with clear tradeoffs and long-term maintainability
-*  **APIs & Services** — FastAPI, Django, Gin (Go), REST, gRPC
-*  **Databases** — PostgreSQL, MongoDB, Redis
-*  **Automation & Infrastructure** — from scripting to deployment pipelines
-  
- **Proven in Production**
-I'm the creator of [**Nuvom**](https://github.com/nahom-zewdu/Nuvom), a cross-platform Python task queue, built from scratch. 
-It’s fast, reliable, Windows-first and a practical example of my ability to ship serious backend infrastructure.
+I build **real-time systems, automation pipelines, and developer tools**—focused on scalability, reliability, and clean architecture.
+
+**Core work:**
+
+* Backend systems: Django, FastAPI, Gin (Go), REST APIs
+* Distributed systems: task queues, async processing, WebSockets
+* Cloud (GCP): Compute Engine, Cloud Functions, GCS, IAM, billing & cost monitoring
+* Automation: n8n workflows, bots, end-to-end pipelines
+* Data: PostgreSQL, MongoDB, Redis
+
+**Impact:**
+
+* Automated lead generation workflows → significantly reduced manual prospecting effort
+* Built a news-to-video pipeline → cut content production from hours to minutes
+* Creator of [**Nuvom**](https://github.com/nahom-zewdu/Nuvom) a lightweight, brokerless Python task queue with scheduling, retries, and plugin-based extensibility
+
+**Approach:**
+Clean, modular systems. Clear trade-offs. No unnecessary complexity.
 
 🏆 **Background**
 
